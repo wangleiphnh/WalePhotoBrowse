@@ -8,7 +8,7 @@
 
 #import "PhotoBrowserCell.h"
 #import "PhotoBrowserProgressView.h"
-#import <UIImageView+WebCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
 
 
 @interface PhotoBrowserCell ()<UIScrollViewDelegate,UIGestureRecognizerDelegate>
